@@ -1,4 +1,5 @@
-{
+{       "author": "brahim belghiti",
+	"description": "A project to get the basics of node",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
